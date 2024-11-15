@@ -7,7 +7,7 @@
 - Estou procurando colaborar em criações de paginas web
 
 - Como chegar até mim:
-- whatsapp (027)9 9905-3937 instagram:rudi_codec
+- whatsapp (027) 9 9905-3937 instagram: rudi_codec
 
 - Pronomes:ele/dele
 
