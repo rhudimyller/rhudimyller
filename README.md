@@ -17,7 +17,7 @@
 	    
  
   <h1 align="center">Redes Sociais</h1>
-	<a href =”https://mail.google.com/mail/u/0/#inbox">
+	<a href =”https://mail.google.com/mail/malito:beloow10@gmail.com">
   	<img width="30" src="gmail.svg">
 	</a>
 	<a href = "https://www.linkedin.com/in/rhudimyller-belo-8aa9992a3/">
